@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "I want home",
+    "verson":"0.1",
+    "contest_script":[
+        {
+            "matches" : ["<all_urls>"],
+            "js" : ["index.js"]
+        }
+    ]
+}
